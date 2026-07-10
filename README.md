@@ -4,20 +4,20 @@ This repository contains my solutions to Codeforces problems solved while improv
 
 - **Language:** Python and C++
 - **Current Goal:** Solve at least one problem every day.
-- **Current Rating:** Newbie
+- **Current Rating:** Newbie (872)
 - **Target:** Specialist
 
 ## Progress
 
 | Rating | Solved |
 |---------|--------|
-| 800 | **1** |
+| 800 | **2** |
 | 900 | **0** |
 |1000 | **0** |
 |1100 | **0** |
 |1200 | **0** |
 
-**Total Problems Solved:** 1
+**Total Problems Solved:** 2
 
 ---
 
