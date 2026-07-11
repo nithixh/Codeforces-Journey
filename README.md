@@ -13,13 +13,13 @@ I solved problems before creating this repository, so it does not include every 
 
 | Rating | Solved |
 |---------|--------|
-| 800 | **2** |
+| 800 | **3** |
 | 900 | **0** |
 |1000 | **0** |
 |1100 | **0** |
 |1200 | **0** |
 
-**Total Problems Solved:** 2
+**Total Problems Solved:** 3
 
 ---
 
@@ -27,10 +27,7 @@ I solved problems before creating this repository, so it does not include every 
 
 ```text
 800/
-900/
-1000/
-1100/
 ...
 ```
 
-Last Updated: 10 July 2026
+Last Updated: 11 July 2026
