@@ -1,6 +1,6 @@
 """
 Problem: 69A - Young Physicist
-Rating: 800
+Rating: 1000
 Link: http://codeforces.com/contest/69/problem/A
 
 Idea:
