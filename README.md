@@ -13,9 +13,9 @@ I solved problems before creating this repository, so it does not include every 
 
 | Rating | Solved |
 |---------|--------|
-| 800 | **3** |
+| 800 | **2** |
 | 900 | **0** |
-|1000 | **0** |
+|1000 | **1** |
 |1100 | **1** |
 |1200 | **0** |
 
@@ -26,7 +26,8 @@ I solved problems before creating this repository, so it does not include every 
 ## Folder Structure
 
 ```text
-800/
+0800/
+1000/
 1100/
 ...
 ```
