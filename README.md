@@ -16,10 +16,10 @@ I solved problems before creating this repository, so it does not include every 
 | 800 | **3** |
 | 900 | **0** |
 |1000 | **0** |
-|1100 | **0** |
+|1100 | **1** |
 |1200 | **0** |
 
-**Total Problems Solved:** 3
+**Total Problems Solved:** 4
 
 ---
 
@@ -27,7 +27,8 @@ I solved problems before creating this repository, so it does not include every 
 
 ```text
 800/
+1100/
 ...
 ```
 
-Last Updated: 11 July 2026
+Last Updated: 12 July 2026
