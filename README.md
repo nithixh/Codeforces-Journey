@@ -15,7 +15,7 @@ I solved problems before creating this repository, so it does not include every 
 |---------|--------|
 | 800 | **2** |
 | 900 | **0** |
-|1000 | **1** |
+|1000 | **2** |
 |1100 | **1** |
 |1200 | **0** |
 
@@ -32,4 +32,4 @@ I solved problems before creating this repository, so it does not include every 
 ...
 ```
 
-Last Updated: 12 July 2026
+Last Updated: 13 July 2026
