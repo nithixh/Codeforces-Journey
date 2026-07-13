@@ -5,7 +5,7 @@ This repository contains my solutions to Codeforces problems solved while improv
 This repository contains my Codeforces solutions starting from 10 July 2026.
 I solved problems before creating this repository, so it does not include every problem from my Codeforces account.
 
-- **Language:** Python and C++
+- **Language:** Python
 - **Current Goal:** Solve at least one problem every day.
 - **Current Rating:** Newbie (872)
 
