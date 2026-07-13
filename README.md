@@ -7,7 +7,7 @@ I solved problems before creating this repository, so it does not include every 
 
 - **Language:** Python
 - **Current Goal:** Solve at least one problem every day.
-- **Current Rating:** Newbie (872)
+- **Current Rating:** Newbie (937)
 
 ## Progress
 
