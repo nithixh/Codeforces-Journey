@@ -19,7 +19,7 @@ I solved problems before creating this repository, so it does not include every 
 |1100 | **1** |
 |1200 | **0** |
 
-**Total Problems Solved:** 5
+**Total Problems Solved:** 7
 
 ---
 
