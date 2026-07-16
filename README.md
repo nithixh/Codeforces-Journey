@@ -15,11 +15,11 @@ I solved problems before creating this repository, so it does not include every 
 |---------|--------|
 | 800 | **2** |
 | 900 | **0** |
-|1000 | **4** |
+|1000 | **5** |
 |1100 | **1** |
 |1200 | **0** |
 
-**Total Problems Solved:** 7
+**Total Problems Solved:** 8
 
 ---
 
