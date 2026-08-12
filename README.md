@@ -14,12 +14,12 @@ I solved problems before creating this repository, so it does not include every 
 | Rating | Solved |
 |---------|--------|
 | 800 | **23** |
-| 900 | **4** |
+| 900 | **5** |
 |1000 | **5** |
 |1100 | **2** |
 |1200 | **0** |
 
-**Total Problems Solved:** 34
+**Total Problems Solved:** 35
 
 ---
 
@@ -33,7 +33,7 @@ I solved problems before creating this repository, so it does not include every 
 ...
 ```
 
-Last Updated: 11 August 2026
+Last Updated: 12 August 2026
 
 
 Created: 10 July 2026
