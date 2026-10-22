@@ -15,7 +15,7 @@ I solved problems before creating this repository, so it does not include every 
 |---------|--------|
 | 800 | **31** |
 | 900 | **34** |
-|1000 | **38** |
+|1000 | **39** |
 |1100 | **2** |
 |1200 | **0** |
 
