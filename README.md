@@ -14,12 +14,12 @@ I solved problems before creating this repository, so it does not include every 
 | Rating | Solved |
 |---------|--------|
 | 800 | **31** |
-| 900 | **36** |
+| 900 | **37** |
 |1000 | **46** |
 |1100 | **2** |
 |1200 | **0** |
 
-**Total Problems Solved:** 114
+**Total Problems Solved:** 115
 
 ---
 
@@ -33,7 +33,8 @@ I solved problems before creating this repository, so it does not include every 
 ...
 ```
 
-Last Updated: 01 November 2026
+Last Updated: 02 November 2026
 
+Sadly my streak broke on 31 October 2026. I missed that day. Lost a streak of 113 days
 
 Created: 10 July 2026
