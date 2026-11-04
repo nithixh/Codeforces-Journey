@@ -14,12 +14,12 @@ I solved problems before creating this repository, so it does not include every 
 | Rating | Solved |
 |---------|--------|
 | 800 | **31** |
-| 900 | **38** |
+| 900 | **39** |
 |1000 | **46** |
 |1100 | **2** |
 |1200 | **0** |
 
-**Total Problems Solved:** 116
+**Total Problems Solved:** 117
 
 ---
 
@@ -33,9 +33,8 @@ I solved problems before creating this repository, so it does not include every 
 ...
 ```
 
-Last Updated: 03 November 2026
+Last Updated: 04 November 2026
 
 Sadly my streak broke on 31 October 2026. I missed that day. Lost a streak of 113 days
-4th November 2026 - My file is not committing in github. It shows some error
 
 Created: 10 July 2026
